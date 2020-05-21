@@ -1,2 +1,2 @@
-# WeatherMiniChallengeSuppose
- Weather ferecast in Ribeirão Preto
+# WeatherMiniChallenge
+ Weather forecast in Ribeirão Preto
